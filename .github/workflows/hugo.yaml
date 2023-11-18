@@ -42,8 +42,6 @@ jobs:
               run: sudo snap install dart-sass
             - name: Install PostCSS CLI
               run: sudo npm install -g postcss-cli
-            - name: Install Salinger
-              run: cd themes/salinger && npm install && cd ../.. && hugo mod clean && hugo mod npm pack && npm install
             - name: Checkout
               uses: actions/checkout@v4
               with:
@@ -54,6 +52,8 @@ jobs:
               uses: actions/configure-pages@v3
             - name: Install Node.js dependencies
               run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+            - name: Install Salinger
+              run: cd themes/salinger && npm install && cd ../.. && hugo mod clean && hugo mod npm pack && npm install
             - name: Build with Hugo
               env:
                   # For maximum backward compatibility with Hugo modules
