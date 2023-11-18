@@ -42,6 +42,8 @@ jobs:
               run: sudo snap install dart-sass
             - name: Install PostCSS CLI
               run: sudo npm install -g postcss-cli
+            - name: Install Salinger
+              run: cd themes/salinger && npm install && cd ../.. && hugo mod clean && hugo mod npm pack && npm install
             - name: Checkout
               uses: actions/checkout@v4
               with:
