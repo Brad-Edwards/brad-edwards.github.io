@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brad Edwards</title>
+    <link>https://brad-edwards.github.io/</link>
+    <description>Recent content on Brad Edwards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Nov 2023 08:56:43 -0800</lastBuildDate>
+    <atom:link href="https://brad-edwards.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://brad-edwards.github.io/resume/</link>
+      <pubDate>Sat, 18 Nov 2023 11:27:53 -0800</pubDate>
+      <guid>https://brad-edwards.github.io/resume/</guid>
+      <description>Brad Edwards 8-6014 Vedder Rd, Chilliwack, BC • +1 778-919-1230 • j.bradley.edwards@gmail.com
+LinkedIn • GitHub
+WORK EXPERIENCE Senior Consultant
+Ensemble Systems • Vancouver, BC, Canada • Full-time • 06/2023 - Present
+Developed AI training materials. Developed prompt tracking framework Developed POC for document analysis using LangChain and LLM with RAG (LlamaIndex) Designed a strategic roadmap, product vision, and product strategy for a martech stack Stood up team of 12 and aligned them on first deliverable for a new martech stack.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://brad-edwards.github.io/projects/</link>
+      <pubDate>Sat, 18 Nov 2023 08:52:24 -0800</pubDate>
+      <guid>https://brad-edwards.github.io/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://brad-edwards.github.io/about/</link>
+      <pubDate>Sat, 18 Nov 2023 08:52:06 -0800</pubDate>
+      <guid>https://brad-edwards.github.io/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sometimes Portfolio Projects Get Out of Hand</title>
+      <link>https://brad-edwards.github.io/posts/sometimes-portfolio-projects-get-out-of-hand/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://brad-edwards.github.io/posts/sometimes-portfolio-projects-get-out-of-hand/</guid>
+      <description>It Started Innocently Enough Transparently, it started as a portfolio project. I wanted to build a portfolio project so that I&amp;rsquo;d be ready if my employment situation changed. I wanted to consolidate what I&amp;rsquo;ve learned in the last few years, push my skills into new areas, and dig into gaps. I wanted to grow into a machine learning engineer and be a strong Ph.D. applicant when I finish my master&amp;rsquo;s.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://brad-edwards.github.io/privacy/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://brad-edwards.github.io/privacy/</guid>
+      <description>Type of website: Portfolio
+Effective date: 13th day of November, 2023
+www.bradedwards.tech (the &amp;ldquo;Site&amp;rdquo;) is owned and operated by Brad Edwards. Brad Edwards is the data controller and can be contacted at:
+brad@atomiklabs.com
+8-6014 Vedder Rd, Chilliwack, BC, V2R 5P5
+Purpose The purpose of this privacy policy (this &amp;ldquo;Privacy Policy&amp;rdquo;) is to inform users of our Site of the following:
+The personal data we will collect; Use of collected data; Who has access to the data collected; The rights of Site users; and The Site&amp;rsquo;s cookie policy.</description>
+    </item>
+    <item>
+      <title>Terms and Conditions</title>
+      <link>https://brad-edwards.github.io/terms/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://brad-edwards.github.io/terms/</guid>
+      <description>TERMS AND CONDITIONS These terms and conditions (the &amp;ldquo;Terms and Conditions&amp;rdquo;) govern the use of www.bradedwards.tech (the &amp;ldquo;Site&amp;rdquo;). This Site is owned and operated by Brad Edwards. This Site is a portfolio.
+By using this Site, you indicate that you have read and understand these Terms and Conditions and agree to abide by them at all times.
+Intellectual Property All content published and made available on our Site is the property of Brad Edwards and the Site&amp;rsquo;s creators.</description>
+    </item>
+  </channel>
+</rss>

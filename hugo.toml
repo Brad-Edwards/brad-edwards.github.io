@@ -122,3 +122,9 @@ target = "$1"
 unsafe = true
 [markup.highlight]
 style = 'base16-snazzy'
+
+[deployment]
+
+[[deployment.targets]]
+name = "production"
+URL = "s3://amazon-cloudfront-secure-static-site--s3bucketroot-anx6dv0idhxt?region=us-east-1"
