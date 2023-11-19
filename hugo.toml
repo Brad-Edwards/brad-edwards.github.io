@@ -32,8 +32,8 @@ filterCoverImages = true
 
 [params.meta]
 title = "Personal website of Brad Edwards, AI/ML Engineer, Vancouver, BC"
-description = "Brad Edwards is an AI/ML Engineer and MSc Computer Science with Artificial Intelligence student at the University of York."
-keywords = ["Brad Edwards", "AI/ML Engineer", "Machine Learning Engineer", "ML Engineer", "AI Engineer", "TechcraftingAI", "AtomikLabs", "University of York"]
+description = "Brad Edwards is an AI Engineer and MSc Computer Science with Artificial Intelligence student at the University of York."
+keywords = ["Brad Edwards", "AI Engineer", "Machine Learning Engineer", "ML Engineer", "AI Engineer", "TechcraftingAI", "AtomikLabs", "University of York"]
 
 [params.footer]
 copy = 'Brad Edwards. All rights reserved.'
