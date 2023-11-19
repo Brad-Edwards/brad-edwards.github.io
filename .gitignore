@@ -1,5 +1,11 @@
+IDE and Environment Files
 .vscode
 .idea
 node_modules
+.DS_Store
+
 # Local Netlify folder
 .netlify
+
+# Hugo
+public
