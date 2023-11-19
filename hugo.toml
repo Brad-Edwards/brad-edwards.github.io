@@ -30,6 +30,11 @@ showOnlyFeaturedPost = true
 
 filterCoverImages = true
 
+[params.shareButtons]
+  icon = "solid"
+  networks = ["linkedin", "facebook", "twitter", "email"]
+  size = "small"
+
 [params.meta]
 title = "Personal website of Brad Edwards, AI/ML Engineer, Vancouver, BC"
 description = "Brad Edwards is an AI Engineer and MSc Computer Science with Artificial Intelligence student at the University of York."
@@ -87,6 +92,12 @@ lang = "langs"
 tags = "tags"
 tool = "tools"
 
+[deployment]
+
+[[deployment.targets]]
+name = "production"
+URL = "s3://amazon-cloudfront-secure-static-site--s3bucketroot-anx6dv0idhxt?region=us-east-1"
+
 
 # the following code is mandatory for the theme to work properly.
 
@@ -122,9 +133,3 @@ target = "$1"
 unsafe = true
 [markup.highlight]
 style = 'base16-snazzy'
-
-[deployment]
-
-[[deployment.targets]]
-name = "production"
-URL = "s3://amazon-cloudfront-secure-static-site--s3bucketroot-anx6dv0idhxt?region=us-east-1"

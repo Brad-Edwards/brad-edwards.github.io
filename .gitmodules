@@ -1,3 +1,6 @@
 [submodule "themes/salinger"]
 	path = themes/salinger
 	url = https://github.com/jacksalici/salinger-theme.git
+[submodule "themes/hugo-share-buttons"]
+	path = themes/hugo-share-buttons
+	url = https://github.com/Stals/hugo-share-buttons.git

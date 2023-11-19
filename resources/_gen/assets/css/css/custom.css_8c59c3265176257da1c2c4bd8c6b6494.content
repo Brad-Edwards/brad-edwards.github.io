@@ -1,0 +1,6 @@
+.post-share-buttons {
+    display: block;
+    margin: 25px auto;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+}
