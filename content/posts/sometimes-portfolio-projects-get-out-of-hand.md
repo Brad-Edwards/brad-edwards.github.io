@@ -1,10 +1,13 @@
 +++
 title = 'Sometimes Portfolio Projects Get Out of Hand'
 categories = ['AtomikLabs', 'TechcraftingAI', 'Personal', 'Content Creation']
+cover = "image/open-science-platform-genesis.png"
 date = 2023-11-18
 description = 'How my portfolio project turned into an idea for an intelligent open science platform.'
 draft = false
 featured = true
+link = "https://www.linkedin.com/pulse/sometimes-portfolio-projects-get-out-hand-brad-edwards/"
+linkText = "Read on Brad's Dev Blog"
 slug = 'sometimes-portfolio-projects-get-out-of-hand'
 tags = ['portfolio projects', 'career development', 'ai', 'artificial intelligence', 'open science', 'research', 'atomiklabs', 'techcraftingai', 'arxiv', 'content creation']
 +++
