@@ -5,8 +5,8 @@ date = 2023-11-29
 description = 'Experimenting in computer science is surprisingly similar to experimenting in forensics.'
 draft = false
 featured = true
-slug = 'sometimes-portfolio-projects-get-out-of-hand'
-tags = ['portfolio projects', 'career development', 'ai', 'artificial intelligence', 'open science', 'research', 'atomiklabs', 'techcraftingai', 'arxiv', 'content creation']
+slug = 'crime-scenes-to-code-streams'
+tags = ['graduate studies', 'research', 'computer science', 'artificial intelligence', forensics', 'career']
 +++
 
 ## Forensics to Computer Science
